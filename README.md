@@ -3,7 +3,7 @@ HTML 5 Canvas Animation done using Javascript
 
 This repository contains all my work in HTML canvas animation using javascript
 
-The files in this repository includes :
+The files in this repository include :
 
 (1) index.html
 (2) styles.css
