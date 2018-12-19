@@ -10,7 +10,7 @@ JS files comprise of each type of animation that can be manipulated to run on th
 
 (1) particleanimation.js --> Small circular particle that move around the canvas that tends to change in size and get bigger or smaller when mouse pointer is hovered over them
 
-(2) rect.js --> Small rectangular or square that are being made to move around the HTML5 canvas
+(2) rectangle.js --> Small rectangular or square that are being made to move around the HTML5 canvas
 
 (3) gravity.js --> Circular particles are made to fall,hit and bounce off the base of the canvas due to gravity 
 
@@ -38,6 +38,14 @@ Store them in the same directory and run the index.html file on any browser that
 (1) gravity.js
 
 [![gravity.png](https://i.postimg.cc/QMPwmkZp/gravity.png)](https://postimg.cc/QBQfx7tt)
+
+(2) particleanimation.js
+
+[![particleanimation.png](https://i.postimg.cc/0yh0Htr2/particleanimation.png)](https://postimg.cc/5XqzXSwZ)
+
+(3) rectangle.js
+
+[![rectangle.png](https://i.postimg.cc/3wC0C9vq/rectangle.png)](https://postimg.cc/Y40St68N)
 
 
 
