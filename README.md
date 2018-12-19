@@ -33,4 +33,12 @@ on the HTML5 canvas
 To display this animation download the three files.
 Store them in the same directory and run the index.html file on any browser that supports the canvas tag of HTML5.
 
+#DEMO
+
+(1) gravity.js
+
+[![gravity.png](https://i.postimg.cc/QMPwmkZp/gravity.png)](https://postimg.cc/QBQfx7tt)
+
+
+
 
